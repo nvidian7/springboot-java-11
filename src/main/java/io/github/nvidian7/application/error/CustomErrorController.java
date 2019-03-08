@@ -1,4 +1,4 @@
-package styx.link.app.error;
+package io.github.nvidian7.application.error;
 
 import java.util.Map;
 

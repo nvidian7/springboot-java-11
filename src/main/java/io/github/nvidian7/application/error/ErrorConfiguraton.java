@@ -1,4 +1,4 @@
-package styx.link.app.error;
+package io.github.nvidian7.application.error;
 
 import org.springframework.boot.autoconfigure.web.ErrorProperties;
 import org.springframework.boot.context.properties.ConfigurationProperties;
